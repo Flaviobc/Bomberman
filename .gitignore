@@ -1,0 +1,28 @@
+# CMake build trees and generated metadata
+/README-INTERNAL.md
+/docs/
+/agents/
+/art_source/
+/AGENTS.md
+/build/
+/cmake-build-*/
+**/CMakeFiles/
+**/CMakeCache.txt
+**/cmake_install.cmake
+**/compile_commands.json
+
+
+# Local editor and operating-system files
+*.user
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Local configuration must not be published accidentally
+.env
+.env.*
+!.env.example
+
+# Blender automatic backup; the editable source is versioned as .blend
+*.blend1
