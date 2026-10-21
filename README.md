@@ -9,12 +9,9 @@ integration, and coordinating specialized agents.
 
 ## Watch the game
 
-> **Gameplay video goes here:** bombs, enemies, explosions, and camera movement.
->
-> Upload a video through the GitHub editor, or add a YouTube link here.
+[**Watch the development playlist on YouTube**](https://www.youtube.com/watch?v=HNhkYpmBmrY&list=PLGrHjHFs8JaI)
 
-<!-- Clickable cover: [![Gameplay](docs/showcase/gameplay.jpg)](VIDEO_URL)
-     Add the image before enabling this link. -->
+Follow the project from the 2D prototype to 3D gameplay and distinct enemy personalities.
 
 ## From a window to a game
 
@@ -37,9 +34,25 @@ integration, and coordinating specialized agents.
 8. **Measure and optimize.** Investigate numerical safety and frame costs,
    reuse data, and batch repeated meshes with GPU instancing.
 
-> **Evolution video goes here:** first window → 2D prototype → first 3D arena → final game.
->
-> Add footage of earlier milestones as it becomes available.
+### Development videos
+
+| Stage | Video |
+| --- | --- |
+| 00 | [2D prototype](https://www.youtube.com/watch?v=HNhkYpmBmrY) |
+| 02 | [Early 3D evolution](https://www.youtube.com/watch?v=m1yDTUzsrqY) |
+| 03 | [3D walls](https://www.youtube.com/watch?v=8H6R3n63hpQ) |
+| 04 | [3D bombs](https://www.youtube.com/watch?v=8kJnXZGzpww) |
+| 05 | [First enemy AI](https://www.youtube.com/watch?v=c5G2861koGE) |
+| 06 | [Lives and damage](https://www.youtube.com/watch?v=Wf9fYq8hXss) |
+| 07 | [Sound effects](https://www.youtube.com/watch?v=CC7SGYJztqA) |
+| 08 | [Start screen](https://www.youtube.com/watch?v=Mo_7cJvLSks) |
+| 09 | [Arena development](https://www.youtube.com/watch?v=W-mjTjHmbpc) |
+| 10 | [Enemy AI evolution](https://www.youtube.com/watch?v=k3y2apZYSDk) |
+| 11 | [Particle effects](https://www.youtube.com/watch?v=inzGPR8Ge3M) |
+| 12 | [Map generation](https://www.youtube.com/watch?v=gKsZHMyX_Eo) |
+| 13 | [Further enemy AI evolution](https://www.youtube.com/watch?v=gsUtOhEl_Jw) |
+| 14 | [Enemy personality profiles](https://www.youtube.com/watch?v=3POMw91yxrw) |
+| 15 | [More personality profile gameplay](https://www.youtube.com/watch?v=vhJPiV4fhg8) |
 
 ## What's in the final game
 
