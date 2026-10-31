@@ -9,6 +9,8 @@ integration, and coordinating specialized agents.
 
 ## Watch the game
 
+![Agent Bomberman Demo](media/AgentBomberman.gif)
+
 [**Watch the development playlist on YouTube**](https://www.youtube.com/watch?v=HNhkYpmBmrY&list=PLGrHjHFs8JaI)
 
 Follow the project from the 2D prototype to 3D gameplay and distinct enemy personalities.
